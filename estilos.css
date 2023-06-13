@@ -8,12 +8,16 @@
 
 
 #imgpsi {
-    height: 400px;
-    margin: top 20px;
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-image: url(img/psico.jpg);
     
 }
 
+
+    
 
 main h2 {
     font-size: 300%;
@@ -29,6 +33,7 @@ main h2 {
 
 ul{list-style-type: none;
 }
+
 header {
     background: rgba(0,0,0,0.7);
     width: 100%;
@@ -60,6 +65,13 @@ header {
   nav ul li:hover {
     background: #eca023;
   }
+
+  nav ul li img {
+   width: 50px;
+   height: 50px;
+
+  }
+  
 
   .sectionServ{
 padding-bottom: 50px;
@@ -141,3 +153,5 @@ height: 100vh;  }
 .formCon input[type="submit"]:hover {
   background-color: #357ae8;
 }
+
+
