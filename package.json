@@ -1,0 +1,22 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elian95/PreEntrega2-Saldana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elian95/PreEntrega2-Saldana/issues"
+  },
+  "homepage": "https://github.com/elian95/PreEntrega2-Saldana#readme",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
